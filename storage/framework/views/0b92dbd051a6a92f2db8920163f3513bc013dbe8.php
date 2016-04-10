@@ -14,7 +14,7 @@
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../../public/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="fonts/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet">
 
     <!-- Custom styling plus plugins -->
@@ -23,8 +23,8 @@
     <link href="css/icheck/flat/green.css" rel="stylesheet" />
     <link href="css/floatexamples.css" rel="stylesheet" type="text/css" />
 
-    <script src="../../public/js/jquery.min.js"></script>
-    <script src="../../public/js/nprogress.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/nprogress.js"></script>
 
     <!--[if lt IE 9]>
     <script src="../assets/js/ie8-responsive-file-warning.js"></script>
@@ -57,7 +57,7 @@
                 <!-- menu prile quick info -->
                 <div class="profile">
                     <div class="profile_pic">
-                        <img src="../../public/images/img.jpg" alt="..." class="img-circle profile_img">
+                        <img src="images/img.jpg" alt="..." class="img-circle profile_img">
                     </div>
                     <div class="profile_info">
                         <span>Welcome,</span>
@@ -217,7 +217,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="">
                             <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                                <img src="../../public/images/img.jpg" alt="">John Doe
+                                <img src="images/img.jpg" alt="">John Doe
                                 <span class=" fa fa-angle-down"></span>
                             </a>
                             <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right">
@@ -246,7 +246,7 @@
                                 <li>
                                     <a>
                       <span class="image">
-                                        <img src="../../public/images/img.jpg" alt="Profile Image" />
+                                        <img src="images/img.jpg" alt="Profile Image" />
                                     </span>
                       <span>
                                         <span>John Smith</span>
@@ -260,7 +260,7 @@
                                 <li>
                                     <a>
                       <span class="image">
-                                        <img src="../../public/images/img.jpg" alt="Profile Image" />
+                                        <img src="images/img.jpg" alt="Profile Image" />
                                     </span>
                       <span>
                                         <span>John Smith</span>
@@ -274,7 +274,7 @@
                                 <li>
                                     <a>
                       <span class="image">
-                                        <img src="../../public/images/img.jpg" alt="Profile Image" />
+                                        <img src="images/img.jpg" alt="Profile Image" />
                                     </span>
                       <span>
                                         <span>John Smith</span>
@@ -288,7 +288,7 @@
                                 <li>
                                     <a>
                       <span class="image">
-                                        <img src="../../public/images/img.jpg" alt="Profile Image" />
+                                        <img src="images/img.jpg" alt="Profile Image" />
                                     </span>
                       <span>
                                         <span>John Smith</span>
@@ -1091,36 +1091,36 @@
     <div id="notif-group" class="tabbed_notifications"></div>
 </div>
 
-<script src="../../public/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 
 <!-- gauge js -->
-<script type="text/javascript" src="../../public/js/gauge/gauge.min.js"></script>
-<script type="text/javascript" src="../../public/js/gauge/gauge_demo.js"></script>
+<script type="text/javascript" src="js/gauge/gauge.min.js"></script>
+<script type="text/javascript" src="js/gauge/gauge_demo.js"></script>
 <!-- bootstrap progress js -->
-<script src="../../public/js/progressbar/bootstrap-progressbar.min.js"></script>
-<script src="../../public/js/nicescroll/jquery.nicescroll.min.js"></script>
+<script src="js/progressbar/bootstrap-progressbar.min.js"></script>
+<script src="js/nicescroll/jquery.nicescroll.min.js"></script>
 <!-- icheck -->
-<script src="../../public/js/icheck/icheck.min.js"></script>
+<script src="js/icheck/icheck.min.js"></script>
 <!-- daterangepicker -->
-<script type="text/javascript" src="../../public/js/moment/moment.min.js"></script>
-<script type="text/javascript" src="../../public/js/datepicker/daterangepicker.js"></script>
+<script type="text/javascript" src="js/moment/moment.min.js"></script>
+<script type="text/javascript" src="js/datepicker/daterangepicker.js"></script>
 <!-- chart js -->
-<script src="../../public/js/chartjs/chart.min.js"></script>
+<script src="js/chartjs/chart.min.js"></script>
 
-<script src="../../public/js/custom.js"></script>
+<script src="js/custom.js"></script>
 
 <!-- flot js -->
 <!--[if lte IE 8]>
-<script type="text/javascript" src="../../public/js/excanvas.min.js"></script><![endif]-->
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.js"></script>
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.pie.js"></script>
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.orderBars.js"></script>
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.time.min.js"></script>
-<script type="text/javascript" src="../../public/js/flot/date.js"></script>
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.spline.js"></script>
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.stack.js"></script>
-<script type="text/javascript" src="../../public/js/flot/curvedLines.js"></script>
-<script type="text/javascript" src="../../public/js/flot/jquery.flot.resize.js"></script>
+<script type="text/javascript" src="js/excanvas.min.js"></script><![endif]-->
+<script type="text/javascript" src="js/flot/jquery.flot.js"></script>
+<script type="text/javascript" src="js/flot/jquery.flot.pie.js"></script>
+<script type="text/javascript" src="js/flot/jquery.flot.orderBars.js"></script>
+<script type="text/javascript" src="js/flot/jquery.flot.time.min.js"></script>
+<script type="text/javascript" src="js/flot/date.js"></script>
+<script type="text/javascript" src="js/flot/jquery.flot.spline.js"></script>
+<script type="text/javascript" src="js/flot/jquery.flot.stack.js"></script>
+<script type="text/javascript" src="js/flot/curvedLines.js"></script>
+<script type="text/javascript" src="js/flot/jquery.flot.resize.js"></script>
 <script>
     $(document).ready(function() {
         // [17, 74, 6, 39, 20, 85, 7]
@@ -1199,12 +1199,12 @@
 </script>
 
 <!-- worldmap -->
-<script type="text/javascript" src="../../public/js/maps/jquery-jvectormap-2.0.3.min.js"></script>
-<script type="text/javascript" src="../../public/js/maps/gdp-data.js"></script>
-<script type="text/javascript" src="../../public/js/maps/jquery-jvectormap-world-mill-en.js"></script>
-<script type="text/javascript" src="../../public/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+<script type="text/javascript" src="js/maps/jquery-jvectormap-2.0.3.min.js"></script>
+<script type="text/javascript" src="js/maps/gdp-data.js"></script>
+<script type="text/javascript" src="js/maps/jquery-jvectormap-world-mill-en.js"></script>
+<script type="text/javascript" src="js/maps/jquery-jvectormap-us-aea-en.js"></script>
 <!-- pace -->
-<script src="../../public/js/pace/pace.min.js"></script>
+<script src="js/pace/pace.min.js"></script>
 <script>
     $(function() {
         $('#world-map-gdp').vectorMap({
@@ -1225,7 +1225,7 @@
     });
 </script>
 <!-- skycons -->
-<script src="../../public/js/skycons/skycons.min.js"></script>
+<script src="js/skycons/skycons.min.js"></script>
 <script>
     var icons = new Skycons({
                 "color": "#73879C"

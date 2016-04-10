@@ -2,310 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="621937b6-8024-484c-9c9f-8f395158888c" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/animate.min.css" afterPath="$PROJECT_DIR$/public/css/animate.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/calendar/fullcalendar.css" afterPath="$PROJECT_DIR$/public/css/calendar/fullcalendar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/calendar/fullcalendar.min.css" afterPath="$PROJECT_DIR$/public/css/calendar/fullcalendar.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/calendar/fullcalendar.print.css" afterPath="$PROJECT_DIR$/public/css/calendar/fullcalendar.print.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/colorpicker/bootstrap-colorpicker.min.css" afterPath="$PROJECT_DIR$/public/css/colorpicker/bootstrap-colorpicker.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/colorpicker/img/bootstrap-colorpicker/alpha-horizontal.png" afterPath="$PROJECT_DIR$/public/css/colorpicker/img/bootstrap-colorpicker/alpha-horizontal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/colorpicker/img/bootstrap-colorpicker/alpha.png" afterPath="$PROJECT_DIR$/public/css/colorpicker/img/bootstrap-colorpicker/alpha.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/colorpicker/img/bootstrap-colorpicker/hue-horizontal.png" afterPath="$PROJECT_DIR$/public/css/colorpicker/img/bootstrap-colorpicker/hue-horizontal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/colorpicker/img/bootstrap-colorpicker/hue.png" afterPath="$PROJECT_DIR$/public/css/colorpicker/img/bootstrap-colorpicker/hue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/colorpicker/img/bootstrap-colorpicker/saturation.png" afterPath="$PROJECT_DIR$/public/css/colorpicker/img/bootstrap-colorpicker/saturation.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/custom.css" afterPath="$PROJECT_DIR$/public/css/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/css/demo_page.css" afterPath="$PROJECT_DIR$/public/css/datatables/css/demo_page.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/css/demo_table.css" afterPath="$PROJECT_DIR$/public/css/datatables/css/demo_table.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/css/demo_table_jui.css" afterPath="$PROJECT_DIR$/public/css/datatables/css/demo_table_jui.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/css/jquery.dataTables.css" afterPath="$PROJECT_DIR$/public/css/datatables/css/jquery.dataTables.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/css/jquery.dataTables_themeroller.css" afterPath="$PROJECT_DIR$/public/css/datatables/css/jquery.dataTables_themeroller.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/Sorting icons.psd" afterPath="$PROJECT_DIR$/public/css/datatables/images/Sorting icons.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/back_disabled.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/back_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/back_enabled.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/back_enabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/back_enabled_hover.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/back_enabled_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/favicon.ico" afterPath="$PROJECT_DIR$/public/css/datatables/images/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/forward_disabled.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/forward_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/forward_enabled.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/forward_enabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/forward_enabled_hover.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/forward_enabled_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/sort_asc.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/sort_asc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/sort_asc_disabled.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/sort_asc_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/sort_both.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/sort_both.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/sort_desc.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/sort_desc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/images/sort_desc_disabled.png" afterPath="$PROJECT_DIR$/public/css/datatables/images/sort_desc_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/datatables/tools/css/dataTables.tableTools.css" afterPath="$PROJECT_DIR$/public/css/datatables/tools/css/dataTables.tableTools.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/editor/external/google-code-prettify/prettify.css" afterPath="$PROJECT_DIR$/public/css/editor/external/google-code-prettify/prettify.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/editor/index.css" afterPath="$PROJECT_DIR$/public/css/editor/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/floatexamples.css" afterPath="$PROJECT_DIR$/public/css/floatexamples.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/_all.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/_all.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/aero.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/aero.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/aero.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/aero.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/aero@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/aero@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/blue.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/blue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/blue.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/blue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/blue@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/blue@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/flat.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/flat.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/flat.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/flat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/flat@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/flat@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/green.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/green.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/green.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/green.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/green@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/green@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/grey.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/grey.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/grey.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/grey.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/grey@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/grey@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/orange.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/orange.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/orange.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/orange.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/orange@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/orange@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/pink.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/pink.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/pink.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/pink.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/pink@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/pink@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/purple.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/purple.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/purple.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/purple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/purple@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/purple@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/red.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/red.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/red.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/red.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/red@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/red@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/yellow.css" afterPath="$PROJECT_DIR$/public/css/icheck/flat/yellow.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/yellow.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/yellow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/icheck/flat/yellow@2x.png" afterPath="$PROJECT_DIR$/public/css/icheck/flat/yellow@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/ion.rangeSlider.css" afterPath="$PROJECT_DIR$/public/css/ion.rangeSlider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/ion.rangeSlider.skinFlat.css" afterPath="$PROJECT_DIR$/public/css/ion.rangeSlider.skinFlat.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/maps/jquery-jvectormap-2.0.3.css" afterPath="$PROJECT_DIR$/public/css/maps/jquery-jvectormap-2.0.3.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/normalize.css" afterPath="$PROJECT_DIR$/public/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/nprogress.css" afterPath="$PROJECT_DIR$/public/css/nprogress.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/progressbar/bootstrap-progressbar-3.3.0.css" afterPath="$PROJECT_DIR$/public/css/progressbar/bootstrap-progressbar-3.3.0.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/select/select2.min.css" afterPath="$PROJECT_DIR$/public/css/select/select2.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/css/switchery/switchery.min.css" afterPath="$PROJECT_DIR$/public/css/switchery/switchery.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/css/font-awesome.css" afterPath="$PROJECT_DIR$/public/fonts/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/fonts/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/fonts/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/fonts/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/fonts/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/fonts/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/fonts/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/fonts/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/animated.less" afterPath="$PROJECT_DIR$/public/fonts/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/public/fonts/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/core.less" afterPath="$PROJECT_DIR$/public/fonts/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/fixed-width.less" afterPath="$PROJECT_DIR$/public/fonts/less/fixed-width.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/font-awesome.less" afterPath="$PROJECT_DIR$/public/fonts/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/icons.less" afterPath="$PROJECT_DIR$/public/fonts/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/larger.less" afterPath="$PROJECT_DIR$/public/fonts/less/larger.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/list.less" afterPath="$PROJECT_DIR$/public/fonts/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/mixins.less" afterPath="$PROJECT_DIR$/public/fonts/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/path.less" afterPath="$PROJECT_DIR$/public/fonts/less/path.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/public/fonts/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/spinning.less" afterPath="$PROJECT_DIR$/public/fonts/less/spinning.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/stacked.less" afterPath="$PROJECT_DIR$/public/fonts/less/stacked.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/less/variables.less" afterPath="$PROJECT_DIR$/public/fonts/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_animated.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_animated.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_core.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_icons.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_icons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_larger.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_larger.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_list.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_list.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_mixins.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_path.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_path.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_spinning.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_spinning.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_stacked.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/_variables.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/fonts/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/public/fonts/scss/font-awesome.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/1.png" afterPath="$PROJECT_DIR$/public/images/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/4.jpg" afterPath="$PROJECT_DIR$/public/images/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/american-express.png" afterPath="$PROJECT_DIR$/public/images/american-express.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/back_disabled.png" afterPath="$PROJECT_DIR$/public/images/back_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/back_enabled.png" afterPath="$PROJECT_DIR$/public/images/back_enabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/back_enabled_hover.png" afterPath="$PROJECT_DIR$/public/images/back_enabled_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/bootstrap-colorpicker/alpha-horizontal.png" afterPath="$PROJECT_DIR$/public/images/bootstrap-colorpicker/alpha-horizontal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/bootstrap-colorpicker/alpha.png" afterPath="$PROJECT_DIR$/public/images/bootstrap-colorpicker/alpha.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/bootstrap-colorpicker/hue-horizontal.png" afterPath="$PROJECT_DIR$/public/images/bootstrap-colorpicker/hue-horizontal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/bootstrap-colorpicker/hue.png" afterPath="$PROJECT_DIR$/public/images/bootstrap-colorpicker/hue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/bootstrap-colorpicker/saturation.png" afterPath="$PROJECT_DIR$/public/images/bootstrap-colorpicker/saturation.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/data.png" afterPath="$PROJECT_DIR$/public/images/data.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/favicon.ico" afterPath="$PROJECT_DIR$/public/images/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/forward_disabled.png" afterPath="$PROJECT_DIR$/public/images/forward_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/forward_enabled.png" afterPath="$PROJECT_DIR$/public/images/forward_enabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/forward_enabled_hover.png" afterPath="$PROJECT_DIR$/public/images/forward_enabled_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/icons.png" afterPath="$PROJECT_DIR$/public/images/icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/img.jpg" afterPath="$PROJECT_DIR$/public/images/img.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/loading.gif" afterPath="$PROJECT_DIR$/public/images/loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/mastercard.png" afterPath="$PROJECT_DIR$/public/images/mastercard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/paypal2.png" afterPath="$PROJECT_DIR$/public/images/paypal2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/picture-2.jpg" afterPath="$PROJECT_DIR$/public/images/picture-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/picture.jpg" afterPath="$PROJECT_DIR$/public/images/picture.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/picture2.jpg" afterPath="$PROJECT_DIR$/public/images/picture2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/prod1.jpg" afterPath="$PROJECT_DIR$/public/images/prod1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/prod2.jpg" afterPath="$PROJECT_DIR$/public/images/prod2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/prod3.jpg" afterPath="$PROJECT_DIR$/public/images/prod3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/prod4.jpg" afterPath="$PROJECT_DIR$/public/images/prod4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/prod5.jpg" afterPath="$PROJECT_DIR$/public/images/prod5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/sprite-skin-flat.png" afterPath="$PROJECT_DIR$/public/images/sprite-skin-flat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/sprite-skin-modern.png" afterPath="$PROJECT_DIR$/public/images/sprite-skin-modern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/sprite-skin-nice.png" afterPath="$PROJECT_DIR$/public/images/sprite-skin-nice.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/sprite-skin-simple.png" afterPath="$PROJECT_DIR$/public/images/sprite-skin-simple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/user.png" afterPath="$PROJECT_DIR$/public/images/user.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/images/visa.png" afterPath="$PROJECT_DIR$/public/images/visa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/autocomplete/countries.js" afterPath="$PROJECT_DIR$/public/js/autocomplete/countries.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/autocomplete/jquery.autocomplete.js" afterPath="$PROJECT_DIR$/public/js/autocomplete/jquery.autocomplete.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/calendar/fullcalendar.min.js" afterPath="$PROJECT_DIR$/public/js/calendar/fullcalendar.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/chartjs/chart.min.js" afterPath="$PROJECT_DIR$/public/js/chartjs/chart.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/colorpicker/bootstrap-colorpicker.min.js" afterPath="$PROJECT_DIR$/public/js/colorpicker/bootstrap-colorpicker.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/colorpicker/docs.js" afterPath="$PROJECT_DIR$/public/js/colorpicker/docs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/cropping/cropper.min.js" afterPath="$PROJECT_DIR$/public/js/cropping/cropper.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/cropping/main.js" afterPath="$PROJECT_DIR$/public/js/cropping/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/cropping/main2.js" afterPath="$PROJECT_DIR$/public/js/cropping/main2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/custom.js" afterPath="$PROJECT_DIR$/public/js/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/buttons.bootstrap.min.css" afterPath="$PROJECT_DIR$/public/js/datatables/buttons.bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/buttons.bootstrap.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/buttons.bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/buttons.html5.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/buttons.html5.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/buttons.print.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/buttons.print.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/dataTables.bootstrap.js" afterPath="$PROJECT_DIR$/public/js/datatables/dataTables.bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/dataTables.buttons.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/dataTables.buttons.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/dataTables.fixedHeader.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/dataTables.fixedHeader.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/dataTables.keyTable.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/dataTables.keyTable.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/dataTables.responsive.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/dataTables.responsive.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/dataTables.scroller.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/dataTables.scroller.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/fixedHeader.bootstrap.min.css" afterPath="$PROJECT_DIR$/public/js/datatables/fixedHeader.bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/jquery.dataTables.min.css" afterPath="$PROJECT_DIR$/public/js/datatables/jquery.dataTables.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/jquery.dataTables.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/jquery.dataTables.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/json/scroller-demo.json" afterPath="$PROJECT_DIR$/public/js/datatables/json/scroller-demo.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/jszip.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/jszip.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/pdfmake.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/pdfmake.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/responsive.bootstrap.min.css" afterPath="$PROJECT_DIR$/public/js/datatables/responsive.bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/responsive.bootstrap.min.js" afterPath="$PROJECT_DIR$/public/js/datatables/responsive.bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/scroller.bootstrap.min.css" afterPath="$PROJECT_DIR$/public/js/datatables/scroller.bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datatables/vfs_fonts.js" afterPath="$PROJECT_DIR$/public/js/datatables/vfs_fonts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/datepicker/daterangepicker.js" afterPath="$PROJECT_DIR$/public/js/datepicker/daterangepicker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/dropzone/dropzone.js" afterPath="$PROJECT_DIR$/public/js/dropzone/dropzone.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/easypie/jquery.easypiechart.min.js" afterPath="$PROJECT_DIR$/public/js/easypie/jquery.easypiechart.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/echart/echarts-all.js" afterPath="$PROJECT_DIR$/public/js/echart/echarts-all.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/echart/green.js" afterPath="$PROJECT_DIR$/public/js/echart/green.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/bootstrap-wysiwyg.js" afterPath="$PROJECT_DIR$/public/js/editor/bootstrap-wysiwyg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-apollo.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-apollo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-basic.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-basic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-clj.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-clj.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-css.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-css.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-dart.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-dart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-erlang.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-erlang.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-go.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-go.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-hs.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-hs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-lisp.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-lisp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-llvm.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-llvm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-lua.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-lua.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-matlab.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-matlab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-ml.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-ml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-mumps.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-mumps.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-n.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-n.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-pascal.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-pascal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-proto.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-proto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-r.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-r.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-rd.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-rd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-scala.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-scala.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-sql.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-sql.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-tcl.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-tcl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-tex.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-tex.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-vb.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-vb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-vhdl.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-vhdl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-wiki.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-wiki.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-xq.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-xq.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/lang-yaml.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/lang-yaml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/prettify.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/prettify.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/google-code-prettify/run_prettify.js" afterPath="$PROJECT_DIR$/public/js/editor/external/google-code-prettify/run_prettify.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/editor/external/jquery.hotkeys.js" afterPath="$PROJECT_DIR$/public/js/editor/external/jquery.hotkeys.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/curvedLines.js" afterPath="$PROJECT_DIR$/public/js/flot/curvedLines.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/date.js" afterPath="$PROJECT_DIR$/public/js/flot/date.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.orderBars.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.orderBars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.pie.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.pie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.resize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.spline.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.spline.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.stack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.time.min.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.time.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/flot/jquery.flot.tooltip.min.js" afterPath="$PROJECT_DIR$/public/js/flot/jquery.flot.tooltip.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/gauge/gauge.min.js" afterPath="$PROJECT_DIR$/public/js/gauge/gauge.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/gauge/gauge_demo.js" afterPath="$PROJECT_DIR$/public/js/gauge/gauge_demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/icheck/icheck.min.js" afterPath="$PROJECT_DIR$/public/js/icheck/icheck.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/input_mask/jquery.inputmask.js" afterPath="$PROJECT_DIR$/public/js/input_mask/jquery.inputmask.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/ion_range/ion.rangeSlider.min.js" afterPath="$PROJECT_DIR$/public/js/ion_range/ion.rangeSlider.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/knob/jquery.knob.min.js" afterPath="$PROJECT_DIR$/public/js/knob/jquery.knob.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/maps/gdp-data.js" afterPath="$PROJECT_DIR$/public/js/maps/gdp-data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/maps/jquery-jvectormap-2.0.3.min.js" afterPath="$PROJECT_DIR$/public/js/maps/jquery-jvectormap-2.0.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/maps/jquery-jvectormap-us-aea-en.js" afterPath="$PROJECT_DIR$/public/js/maps/jquery-jvectormap-us-aea-en.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/maps/jquery-jvectormap-world-mill-en.js" afterPath="$PROJECT_DIR$/public/js/maps/jquery-jvectormap-world-mill-en.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/maps/us-unemployment.json" afterPath="$PROJECT_DIR$/public/js/maps/us-unemployment.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/moment/moment.min.js" afterPath="$PROJECT_DIR$/public/js/moment/moment.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/moris/example.js" afterPath="$PROJECT_DIR$/public/js/moris/example.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/moris/morris.min.js" afterPath="$PROJECT_DIR$/public/js/moris/morris.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/moris/raphael-min.js" afterPath="$PROJECT_DIR$/public/js/moris/raphael-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/nicescroll/jquery.nicescroll.min.js" afterPath="$PROJECT_DIR$/public/js/nicescroll/jquery.nicescroll.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/notify/pnotify.buttons.js" afterPath="$PROJECT_DIR$/public/js/notify/pnotify.buttons.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/notify/pnotify.core.js" afterPath="$PROJECT_DIR$/public/js/notify/pnotify.core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/notify/pnotify.nonblock.js" afterPath="$PROJECT_DIR$/public/js/notify/pnotify.nonblock.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/nprogress.js" afterPath="$PROJECT_DIR$/public/js/nprogress.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/pace/pace.min.js" afterPath="$PROJECT_DIR$/public/js/pace/pace.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/parsley/parsley.min.js" afterPath="$PROJECT_DIR$/public/js/parsley/parsley.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/progressbar/bootstrap-progressbar.min.js" afterPath="$PROJECT_DIR$/public/js/progressbar/bootstrap-progressbar.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/select/select2.full.js" afterPath="$PROJECT_DIR$/public/js/select/select2.full.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/sidebar/classie.js" afterPath="$PROJECT_DIR$/public/js/sidebar/classie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/sidebar/component.css" afterPath="$PROJECT_DIR$/public/js/sidebar/component.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/sidebar/modernizr.custom.js" afterPath="$PROJECT_DIR$/public/js/sidebar/modernizr.custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/sidebar/sidebarEffects.js" afterPath="$PROJECT_DIR$/public/js/sidebar/sidebarEffects.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/skycons/skycons.min.js" afterPath="$PROJECT_DIR$/public/js/skycons/skycons.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/sparkline/jquery.sparkline.min.js" afterPath="$PROJECT_DIR$/public/js/sparkline/jquery.sparkline.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/switchery/switchery.min.js" afterPath="$PROJECT_DIR$/public/js/switchery/switchery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/tags/jquery.tagsinput.min.js" afterPath="$PROJECT_DIR$/public/js/tags/jquery.tagsinput.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/textarea/autosize.min.js" afterPath="$PROJECT_DIR$/public/js/textarea/autosize.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/validator/validator.js" afterPath="$PROJECT_DIR$/public/js/validator/validator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/js/wizard/jquery.smartWizard.js" afterPath="$PROJECT_DIR$/public/js/wizard/jquery.smartWizard.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/less/custom.css" afterPath="$PROJECT_DIR$/public/less/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/calender.html" afterPath="$PROJECT_DIR$/resources/views/calender.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/chartjs.html" afterPath="$PROJECT_DIR$/resources/views/chartjs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/chartjs2.html" afterPath="$PROJECT_DIR$/resources/views/chartjs2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/contacts.html" afterPath="$PROJECT_DIR$/resources/views/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/e_commerce.html" afterPath="$PROJECT_DIR$/resources/views/e_commerce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/echarts.html" afterPath="$PROJECT_DIR$/resources/views/echarts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/empty.html" afterPath="$PROJECT_DIR$/resources/views/empty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/form.html" afterPath="$PROJECT_DIR$/resources/views/form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/form_advanced.html" afterPath="$PROJECT_DIR$/resources/views/form_advanced.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/form_buttons.html" afterPath="$PROJECT_DIR$/resources/views/form_buttons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/form_upload.html" afterPath="$PROJECT_DIR$/resources/views/form_upload.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/form_validation.html" afterPath="$PROJECT_DIR$/resources/views/form_validation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/form_wizards.html" afterPath="$PROJECT_DIR$/resources/views/form_wizards.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/general_elements.html" afterPath="$PROJECT_DIR$/resources/views/general_elements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/glyphicons.html" afterPath="$PROJECT_DIR$/resources/views/glyphicons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/icons.html" afterPath="$PROJECT_DIR$/resources/views/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/inbox.html" afterPath="$PROJECT_DIR$/resources/views/inbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/index.html" afterPath="$PROJECT_DIR$/resources/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/index2.html" afterPath="$PROJECT_DIR$/resources/views/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/index3.html" afterPath="$PROJECT_DIR$/resources/views/index3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/invoice.html" afterPath="$PROJECT_DIR$/resources/views/invoice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/login.html" afterPath="$PROJECT_DIR$/resources/views/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/map.html" afterPath="$PROJECT_DIR$/resources/views/map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/media_gallery.html" afterPath="$PROJECT_DIR$/resources/views/media_gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/morisjs.html" afterPath="$PROJECT_DIR$/resources/views/morisjs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/other_charts.html" afterPath="$PROJECT_DIR$/resources/views/other_charts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/page_404.html" afterPath="$PROJECT_DIR$/resources/views/page_404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/page_500.html" afterPath="$PROJECT_DIR$/resources/views/page_500.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/plain_page.html" afterPath="$PROJECT_DIR$/resources/views/plain_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pricing_tables.html" afterPath="$PROJECT_DIR$/resources/views/pricing_tables.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/profile.html" afterPath="$PROJECT_DIR$/resources/views/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/project_detail.html" afterPath="$PROJECT_DIR$/resources/views/project_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/projects.html" afterPath="$PROJECT_DIR$/resources/views/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/sign_up.html" afterPath="$PROJECT_DIR$/resources/views/sign_up.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/tables.html" afterPath="$PROJECT_DIR$/resources/views/tables.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/tables_dynamic.html" afterPath="$PROJECT_DIR$/resources/views/tables_dynamic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/typography.html" afterPath="$PROJECT_DIR$/resources/views/typography.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/widgets.html" afterPath="$PROJECT_DIR$/resources/views/widgets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/a4f3390727bfa9afc645696c77a6c8a823a9465a" afterPath="$PROJECT_DIR$/storage/framework/sessions/a4f3390727bfa9afc645696c77a6c8a823a9465a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/0b92dbd051a6a92f2db8920163f3513bc013dbe8.php" afterPath="$PROJECT_DIR$/storage/framework/views/0b92dbd051a6a92f2db8920163f3513bc013dbe8.php" />
     </list>
     <ignored path="McDuck.iws" />
@@ -401,6 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -416,6 +117,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="McDuck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="McDuck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="McDuck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -483,36 +202,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McDuck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McDuck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gauge" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -547,23 +242,23 @@
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23725356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24065262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15771584" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -586,7 +281,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15730338">
           <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33707866">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30232558">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4883721">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30232558">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,9 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.333333">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#7#392#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.048257373">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27906978">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,15 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4494382">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.666666">
-          <caret line="1367" column="0" selection-start-line="1367" selection-start-column="0" selection-end-line="1367" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.0">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21715818">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,6 +436,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38372093">
+          <caret line="1227" column="13" selection-start-line="1227" selection-start-column="13" selection-end-line="1227" selection-end-column="13" />
           <folding />
         </state>
       </provider>
