@@ -26,6 +26,7 @@
     22 => 'App\\Providers\\AuthServiceProvider',
     23 => 'App\\Providers\\EventServiceProvider',
     24 => 'App\\Providers\\RouteServiceProvider',
+    25 => 'App\\Providers\\AppVersionsProvider',
   ),
   'eager' => 
   array (
@@ -165,6 +166,9 @@
     array (
     ),
     'Illuminate\\Validation\\ValidationServiceProvider' => 
+    array (
+    ),
+    'App\\Providers\\AppVersionsProvider' => 
     array (
     ),
   ),
