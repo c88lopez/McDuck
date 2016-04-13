@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="MySQL - @localhost" uuid="75be2568-83cd-408e-aaf7-f5e65c80e85a">
+    <data-source name="MySQL - mc_duck@localhost" uuid="75be2568-83cd-408e-aaf7-f5e65c80e85a">
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
-      <schema-pattern>information_schema.*</schema-pattern>
-      <default-schemas>information_schema.*</default-schemas>
+      <schema-pattern>mc_duck.*</schema-pattern>
+      <default-schemas>mc_duck.*</default-schemas>
     </data-source>
   </component>
 </project>
